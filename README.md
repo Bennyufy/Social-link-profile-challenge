@@ -20,7 +20,7 @@ See hover and focus states for all interactive elements on the page.
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/Bennyufy/Social-link-profile-challenge.git)
-- Live Site URL: [Live site URL here]()
+- Live Site URL: [Live site URL here](https://bennyufy.github.io/Social-link-profile-challenge/)
 
 ### Built with
 
