@@ -1,0 +1,50 @@
+:root{
+--Green: hsl(75, 94%, 57%);
+--White: hsl(0, 0%, 100%);
+--Grey700: hsl(0, 0%, 20%);
+--Grey800: hsl(0, 0%, 12%);
+--Grey900: hsl(0, 0%, 8%);
+}
+body{
+    background-color:var(--Grey900);
+    color:var(--White);
+}
+.profile-image{
+    max-width: 100%;
+    border-radius:100px;
+    height:5rem; 
+}
+.container{
+    background-color: var(--Grey800);
+    text-align: center;
+     width:20rem;
+    margin:5rem auto 0px auto;
+    padding:2rem;
+    border-radius: 15px;
+}
+.location{
+    color:var(--Green);
+}
+.color{
+    display: block;
+    padding:0.8rem;
+    background-color: var(--Grey700);
+    color: var(--White);
+    font-size: 14px;
+}
+a{
+    text-decoration: none;
+    color: var(--White);
+}
+.color:hover{
+    background-color: var(--Green);
+    cursor: pointer;
+}
+
+.attribution 
+{ font-size: 0.6875rem;
+  text-align: center; 
+}
+.attribution a 
+{ color: hsl(228, 45%, 44%); 
+}
