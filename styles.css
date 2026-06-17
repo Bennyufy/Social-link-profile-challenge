@@ -25,7 +25,7 @@ body{
 .location{
     color:var(--Green);
 }
-.color{
+li{
     display: block;
     padding:0.8rem;
     background-color: var(--Grey700);
